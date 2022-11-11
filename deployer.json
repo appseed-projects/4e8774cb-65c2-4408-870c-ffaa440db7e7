@@ -1,0 +1,5 @@
+{
+    "name": "app/static/apps/4e8774cb-65c2-4408-870c-ffaa440db7e7",
+    "type": "fullstack",
+    "dirs": "api-server-django, react-ui"
+}
